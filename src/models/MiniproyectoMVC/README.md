@@ -1,0 +1,6 @@
+# Implementacion de Modelo Vista Controlador
+
+### Integrantes:
+- LUIS MANUEL CARDONA TROCHEZ - 2059942
+- JUAN DAVID GUTIERREZ FLORES - 2060104
+- CESAR PENARANDA - 2266265
